@@ -1,0 +1,547 @@
+[19:18:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:18:30] [ServerMain/INFO]: Loaded 7 recipes
+[19:18:31] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[19:18:31] [Server thread/INFO]: Loading properties
+[19:18:31] [Server thread/INFO]: This server is running CraftBukkit version 3714-Spigot-b31949f-3ae9069 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT)
+[19:18:31] [Server thread/INFO]: Debug logging is disabled
+[19:18:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:18:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:18:31] [Server thread/INFO]: Default game type: CREATIVE
+[19:18:31] [Server thread/INFO]: Generating keypair
+[19:18:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:18:31] [Server thread/INFO]: Using epoll channel type
+[19:18:32] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[19:18:33] [Server thread/WARN]: Legacy plugin SetSpawn v3.4 does not specify an api-version.
+[19:18:33] [Server thread/WARN]: Legacy plugin ELCI v1.12.1 does not specify an api-version.
+[19:18:33] [Server thread/INFO]: [SetSpawn] Loading SetSpawn v3.4
+[19:18:33] [Server thread/INFO]: [ELCI] Loading ELCI v1.12.1
+[19:18:33] [Server thread/INFO]: Preparing level "world"
+[19:18:33] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:18:33] [Server thread/INFO]: Mob Spawn Range: 6
+[19:18:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:18:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:18:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:18:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:18:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:18:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:18:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:18:33] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:18:33] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:18:33] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:18:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:18:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:18:33] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:18:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:18:33] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:18:33] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:18:33] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:18:33] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[19:18:33] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[19:18:33] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[19:18:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[19:18:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:18:33] [Server thread/INFO]: Max TNT Explosions: 100
+[19:18:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:18:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[19:18:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:18:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:18:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:18:33] [Server thread/INFO]: View Distance: 10
+[19:18:33] [Server thread/INFO]: Simulation Distance: 10
+[19:18:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:18:33] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:18:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:18:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:18:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:18:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:18:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:18:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:18:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:18:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:18:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:18:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:18:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:18:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:18:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:18:38] [Worker-Main-3/INFO]: Preparing spawn area: 23%
+[19:18:39] [Server thread/INFO]: Time elapsed: 5545 ms
+[19:18:39] [Server thread/INFO]: [SetSpawn] Enabling SetSpawn v3.4
+[19:18:39] [Server thread/INFO]: [SetSpawn] Enabled!
+[19:18:39] [Server thread/INFO]: [ELCI] Enabling ELCI v1.12.1
+[19:18:39] [Server thread/INFO]: [ELCI] Using host:port - 0.0.0.0:4711
+[19:18:39] [Server thread/INFO]: [ELCI] ThreadListener Started
+[19:18:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:18:39] [Server thread/INFO]: Done (5.818s)! For help, type "help"
+[19:21:09] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:49324.
+[19:21:09] [Thread-11/INFO]: [ELCI] Starting output thread!
+[19:21:09] [Thread-10/INFO]: [ELCI] Starting input thread
+[19:21:13] [Server thread/WARN]: java.lang.IllegalArgumentException: Last unit does not have enough valid bits
+[19:21:13] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode0(Base64.java:868)
+[19:21:13] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:566)
+[19:21:13] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:589)
+[19:21:13] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:128)
+[19:21:13] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107)
+[19:21:13] [Server thread/WARN]: 	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154)
+[19:21:13] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82)
+[19:21:13] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415)
+[19:21:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259)
+[19:21:13] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388)
+[19:21:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200)
+[19:21:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017)
+[19:21:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[19:21:13] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[19:21:13] [Server thread/WARN]: [ELCI] Task #2 for ELCI v1.12.1 generated an exception
+java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 5
+	at java.lang.String.checkBoundsBeginEnd(String.java:4602) ~[?:?]
+	at java.lang.String.substring(String.java:2705) ~[?:?]
+	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:147) ~[?:?]
+	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107) ~[?:?]
+	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154) ~[?:?]
+	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[19:22:02] [Server thread/WARN]: java.lang.IllegalArgumentException: Illegal base64 character 2e
+[19:22:02] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode0(Base64.java:848)
+[19:22:02] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:566)
+[19:22:02] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:589)
+[19:22:02] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:128)
+[19:22:02] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107)
+[19:22:02] [Server thread/WARN]: 	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154)
+[19:22:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82)
+[19:22:02] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415)
+[19:22:02] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259)
+[19:22:02] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388)
+[19:22:02] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200)
+[19:22:02] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017)
+[19:22:02] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[19:22:02] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[19:22:02] [Server thread/INFO]: hello[m
+[19:22:34] [Server thread/WARN]: java.lang.IllegalArgumentException: Illegal base64 character 2e
+[19:22:34] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode0(Base64.java:848)
+[19:22:34] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:566)
+[19:22:34] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:589)
+[19:22:34] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:128)
+[19:22:34] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107)
+[19:22:34] [Server thread/WARN]: 	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154)
+[19:22:34] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82)
+[19:22:34] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415)
+[19:22:34] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259)
+[19:22:34] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388)
+[19:22:34] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200)
+[19:22:34] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017)
+[19:22:34] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[19:22:34] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[19:22:34] [Server thread/INFO]: hello[m
+[19:22:44] [Server thread/WARN]: java.lang.IllegalArgumentException: Illegal base64 character 2e
+[19:22:44] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode0(Base64.java:848)
+[19:22:44] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:566)
+[19:22:44] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:589)
+[19:22:44] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:128)
+[19:22:44] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107)
+[19:22:44] [Server thread/WARN]: 	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154)
+[19:22:44] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82)
+[19:22:44] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415)
+[19:22:44] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259)
+[19:22:44] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388)
+[19:22:44] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200)
+[19:22:44] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017)
+[19:22:44] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[19:22:44] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[19:22:44] [Server thread/INFO]: hello[m
+[19:23:06] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:49324.
+[19:23:12] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:49698.
+[19:23:12] [Thread-12/INFO]: [ELCI] Starting input thread
+[19:23:12] [Thread-13/INFO]: [ELCI] Starting output thread!
+[19:23:33] [Server thread/WARN]: java.lang.IllegalArgumentException: Illegal base64 character 2e
+[19:23:33] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode0(Base64.java:848)
+[19:23:33] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:566)
+[19:23:33] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:589)
+[19:23:33] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:128)
+[19:23:33] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107)
+[19:23:33] [Server thread/WARN]: 	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154)
+[19:23:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82)
+[19:23:33] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415)
+[19:23:33] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259)
+[19:23:33] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388)
+[19:23:33] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200)
+[19:23:33] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017)
+[19:23:33] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[19:23:33] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[19:23:33] [Server thread/INFO]: hello neighbour[m
+[19:28:53] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:49698.
+[19:29:29] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:38976.
+[19:29:29] [Thread-20/INFO]: [ELCI] Starting input thread
+[19:29:29] [Thread-21/INFO]: [ELCI] Starting output thread!
+[19:29:29] [Server thread/WARN]: java.lang.IllegalArgumentException: Illegal base64 character 2e
+[19:29:29] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode0(Base64.java:848)
+[19:29:29] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:566)
+[19:29:29] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:589)
+[19:29:29] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:128)
+[19:29:29] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107)
+[19:29:29] [Server thread/WARN]: 	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154)
+[19:29:29] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82)
+[19:29:29] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415)
+[19:29:29] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259)
+[19:29:29] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388)
+[19:29:29] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200)
+[19:29:29] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017)
+[19:29:29] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[19:29:29] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[19:29:29] [Server thread/INFO]: Hello world[m
+[19:29:29] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:38976.
+[19:30:04] [Thread-22/INFO]: [ELCI] Starting input thread
+[19:30:04] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:41678.
+[19:30:04] [Thread-23/INFO]: [ELCI] Starting output thread!
+[19:30:04] [Server thread/WARN]: java.lang.IllegalArgumentException: Illegal base64 character 2e
+[19:30:04] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode0(Base64.java:848)
+[19:30:04] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:566)
+[19:30:04] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:589)
+[19:30:04] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:128)
+[19:30:04] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107)
+[19:30:04] [Server thread/WARN]: 	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154)
+[19:30:04] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82)
+[19:30:04] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415)
+[19:30:04] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259)
+[19:30:04] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388)
+[19:30:04] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200)
+[19:30:04] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017)
+[19:30:04] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[19:30:04] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[19:30:04] [Server thread/INFO]: Hello world[m
+[19:30:04] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:41678.
+[19:30:16] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:54550.
+[19:30:16] [Thread-25/INFO]: [ELCI] Starting output thread!
+[19:30:16] [Thread-24/INFO]: [ELCI] Starting input thread
+[19:30:23] [Server thread/WARN]: java.lang.IllegalArgumentException: Last unit does not have enough valid bits
+[19:30:23] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode0(Base64.java:868)
+[19:30:23] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:566)
+[19:30:23] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:589)
+[19:30:23] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:128)
+[19:30:23] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107)
+[19:30:23] [Server thread/WARN]: 	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154)
+[19:30:23] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82)
+[19:30:23] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415)
+[19:30:23] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259)
+[19:30:23] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388)
+[19:30:23] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200)
+[19:30:23] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017)
+[19:30:23] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[19:30:23] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[19:30:23] [Server thread/WARN]: [ELCI] Task #2 for ELCI v1.12.1 generated an exception
+java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 5
+	at java.lang.String.checkBoundsBeginEnd(String.java:4602) ~[?:?]
+	at java.lang.String.substring(String.java:2705) ~[?:?]
+	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:147) ~[?:?]
+	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107) ~[?:?]
+	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154) ~[?:?]
+	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[19:30:32] [Server thread/WARN]: java.lang.IllegalArgumentException: Illegal base64 character 2e
+[19:30:32] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode0(Base64.java:848)
+[19:30:32] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:566)
+[19:30:32] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:589)
+[19:30:32] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:128)
+[19:30:32] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107)
+[19:30:32] [Server thread/WARN]: 	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154)
+[19:30:32] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82)
+[19:30:32] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415)
+[19:30:32] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259)
+[19:30:32] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388)
+[19:30:32] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200)
+[19:30:32] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017)
+[19:30:32] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[19:30:32] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[19:30:32] [Server thread/INFO]: hello[m
+[19:30:48] [Server thread/WARN]: java.lang.IllegalArgumentException: Illegal base64 character 2e
+[19:30:48] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode0(Base64.java:848)
+[19:30:48] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:566)
+[19:30:48] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:589)
+[19:30:48] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:128)
+[19:30:48] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107)
+[19:30:48] [Server thread/WARN]: 	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154)
+[19:30:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82)
+[19:30:48] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415)
+[19:30:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259)
+[19:30:48] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388)
+[19:30:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200)
+[19:30:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017)
+[19:30:48] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[19:30:48] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[19:30:48] [Server thread/INFO]: hello[m
+[19:30:51] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:54550.
+[19:30:53] [Thread-26/INFO]: [ELCI] Starting input thread
+[19:30:53] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:34584.
+[19:30:53] [Thread-27/INFO]: [ELCI] Starting output thread!
+[19:30:53] [Server thread/WARN]: java.lang.IllegalArgumentException: Illegal base64 character 2e
+[19:30:53] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode0(Base64.java:848)
+[19:30:53] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:566)
+[19:30:53] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:589)
+[19:30:53] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:128)
+[19:30:53] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107)
+[19:30:53] [Server thread/WARN]: 	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154)
+[19:30:53] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82)
+[19:30:53] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415)
+[19:30:53] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259)
+[19:30:53] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388)
+[19:30:53] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200)
+[19:30:53] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017)
+[19:30:53] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[19:30:53] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[19:30:53] [Server thread/INFO]: Hello world[m
+[19:30:53] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:34584.
+[19:33:10] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:53706.
+[19:33:10] [Thread-29/INFO]: [ELCI] Starting output thread!
+[19:33:10] [Thread-28/INFO]: [ELCI] Starting input thread
+[19:33:15] [Server thread/WARN]: java.lang.IllegalArgumentException: Last unit does not have enough valid bits
+[19:33:15] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode0(Base64.java:868)
+[19:33:15] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:566)
+[19:33:15] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:589)
+[19:33:15] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:128)
+[19:33:15] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107)
+[19:33:15] [Server thread/WARN]: 	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154)
+[19:33:15] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82)
+[19:33:15] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415)
+[19:33:15] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259)
+[19:33:15] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388)
+[19:33:15] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200)
+[19:33:15] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017)
+[19:33:15] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[19:33:15] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[19:33:15] [Server thread/WARN]: [ELCI] Task #2 for ELCI v1.12.1 generated an exception
+java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 5
+	at java.lang.String.checkBoundsBeginEnd(String.java:4602) ~[?:?]
+	at java.lang.String.substring(String.java:2705) ~[?:?]
+	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:147) ~[?:?]
+	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107) ~[?:?]
+	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154) ~[?:?]
+	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[19:33:21] [Server thread/WARN]: java.lang.IllegalArgumentException: Last unit does not have enough valid bits
+[19:33:21] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode0(Base64.java:868)
+[19:33:21] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:566)
+[19:33:21] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:589)
+[19:33:21] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:128)
+[19:33:21] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107)
+[19:33:21] [Server thread/WARN]: 	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154)
+[19:33:21] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82)
+[19:33:21] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415)
+[19:33:21] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259)
+[19:33:21] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388)
+[19:33:21] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200)
+[19:33:21] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017)
+[19:33:21] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[19:33:21] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[19:33:21] [Server thread/WARN]: [ELCI] Task #2 for ELCI v1.12.1 generated an exception
+java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 5
+	at java.lang.String.checkBoundsBeginEnd(String.java:4602) ~[?:?]
+	at java.lang.String.substring(String.java:2705) ~[?:?]
+	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:147) ~[?:?]
+	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107) ~[?:?]
+	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154) ~[?:?]
+	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[19:33:28] [Server thread/WARN]: java.lang.IllegalArgumentException: Last unit does not have enough valid bits
+[19:33:28] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode0(Base64.java:868)
+[19:33:28] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:566)
+[19:33:28] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:589)
+[19:33:28] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:128)
+[19:33:28] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107)
+[19:33:28] [Server thread/WARN]: 	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154)
+[19:33:28] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82)
+[19:33:28] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415)
+[19:33:28] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259)
+[19:33:28] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388)
+[19:33:28] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200)
+[19:33:28] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017)
+[19:33:28] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[19:33:28] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[19:33:28] [Server thread/WARN]: [ELCI] Task #2 for ELCI v1.12.1 generated an exception
+java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 5
+	at java.lang.String.checkBoundsBeginEnd(String.java:4602) ~[?:?]
+	at java.lang.String.substring(String.java:2705) ~[?:?]
+	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:147) ~[?:?]
+	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107) ~[?:?]
+	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154) ~[?:?]
+	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[19:33:34] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:53706.
+[19:33:36] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:38168.
+[19:33:36] [Thread-31/INFO]: [ELCI] Starting output thread!
+[19:33:36] [Thread-30/INFO]: [ELCI] Starting input thread
+[19:33:39] [Server thread/WARN]: java.lang.IllegalArgumentException: Last unit does not have enough valid bits
+[19:33:39] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode0(Base64.java:868)
+[19:33:39] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:566)
+[19:33:39] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:589)
+[19:33:39] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:128)
+[19:33:39] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107)
+[19:33:39] [Server thread/WARN]: 	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154)
+[19:33:39] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82)
+[19:33:39] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415)
+[19:33:39] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259)
+[19:33:39] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388)
+[19:33:39] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200)
+[19:33:39] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017)
+[19:33:39] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[19:33:39] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[19:33:39] [Server thread/WARN]: [ELCI] Task #2 for ELCI v1.12.1 generated an exception
+java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 5
+	at java.lang.String.checkBoundsBeginEnd(String.java:4602) ~[?:?]
+	at java.lang.String.substring(String.java:2705) ~[?:?]
+	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:147) ~[?:?]
+	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107) ~[?:?]
+	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154) ~[?:?]
+	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[19:34:20] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:38168.
+[19:34:23] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:45810.
+[19:34:23] [Thread-35/INFO]: [ELCI] Starting output thread!
+[19:34:23] [Thread-34/INFO]: [ELCI] Starting input thread
+[19:34:49] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:42034.
+[19:34:49] [Thread-36/INFO]: [ELCI] Starting input thread
+[19:34:49] [Thread-37/INFO]: [ELCI] Starting output thread!
+[19:34:49] [Server thread/WARN]: java.lang.IllegalArgumentException: Illegal base64 character 2e
+[19:34:49] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode0(Base64.java:848)
+[19:34:49] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:566)
+[19:34:49] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:589)
+[19:34:49] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:128)
+[19:34:49] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107)
+[19:34:49] [Server thread/WARN]: 	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154)
+[19:34:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82)
+[19:34:49] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415)
+[19:34:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259)
+[19:34:49] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388)
+[19:34:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200)
+[19:34:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017)
+[19:34:49] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[19:34:49] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[19:34:49] [Server thread/INFO]: Hello world[m
+[19:34:49] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:42034.
+[19:34:56] [Server thread/WARN]: java.lang.IllegalArgumentException: Last unit does not have enough valid bits
+[19:34:56] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode0(Base64.java:868)
+[19:34:56] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:566)
+[19:34:56] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:589)
+[19:34:56] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:128)
+[19:34:56] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107)
+[19:34:56] [Server thread/WARN]: 	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154)
+[19:34:56] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82)
+[19:34:56] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415)
+[19:34:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259)
+[19:34:56] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388)
+[19:34:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200)
+[19:34:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017)
+[19:34:56] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[19:34:56] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[19:34:56] [Server thread/WARN]: [ELCI] Task #2 for ELCI v1.12.1 generated an exception
+java.lang.StringIndexOutOfBoundsException: begin 0, end -1, length 5
+	at java.lang.String.checkBoundsBeginEnd(String.java:4602) ~[?:?]
+	at java.lang.String.substring(String.java:2705) ~[?:?]
+	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:147) ~[?:?]
+	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107) ~[?:?]
+	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154) ~[?:?]
+	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304) ~[spigot-1.19.4-R0.1-SNAPSHOT.jar:3714-Spigot-b31949f-3ae9069]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[19:34:56] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:45810.
+[19:34:57] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:40620.
+[19:34:57] [Thread-38/INFO]: [ELCI] Starting input thread
+[19:34:57] [Thread-39/INFO]: [ELCI] Starting output thread!
+[19:34:57] [Server thread/WARN]: java.lang.IllegalArgumentException: Illegal base64 character 2e
+[19:34:57] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode0(Base64.java:848)
+[19:34:57] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:566)
+[19:34:57] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:589)
+[19:34:57] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:128)
+[19:34:57] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107)
+[19:34:57] [Server thread/WARN]: 	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154)
+[19:34:57] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82)
+[19:34:57] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415)
+[19:34:57] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259)
+[19:34:57] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388)
+[19:34:57] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200)
+[19:34:57] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017)
+[19:34:57] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[19:34:57] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[19:34:57] [Server thread/INFO]: Hello world[m
+[19:34:57] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:40620.
+[19:36:51] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:52034.
+[19:36:51] [Thread-41/INFO]: [ELCI] Starting output thread!
+[19:36:51] [Thread-40/INFO]: [ELCI] Starting input thread
+[19:36:51] [Server thread/WARN]: java.lang.IllegalArgumentException: Illegal base64 character 2e
+[19:36:51] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode0(Base64.java:848)
+[19:36:51] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:566)
+[19:36:51] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:589)
+[19:36:51] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:128)
+[19:36:51] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107)
+[19:36:51] [Server thread/WARN]: 	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154)
+[19:36:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82)
+[19:36:51] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415)
+[19:36:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259)
+[19:36:51] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388)
+[19:36:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200)
+[19:36:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017)
+[19:36:51] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[19:36:51] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[19:36:51] [Server thread/INFO]: Hello world[m
+[19:36:51] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:52034.
+[19:39:42] [Thread-44/INFO]: [ELCI] Starting input thread
+[19:39:42] [Thread-45/INFO]: [ELCI] Starting output thread!
+[19:39:42] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:54330.
+[19:39:42] [Server thread/WARN]: java.lang.IllegalArgumentException: Illegal base64 character 2e
+[19:39:42] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode0(Base64.java:848)
+[19:39:42] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:566)
+[19:39:42] [Server thread/WARN]: 	at java.base/java.util.Base64$Decoder.decode(Base64.java:589)
+[19:39:42] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.handleLine(RemoteSession.java:128)
+[19:39:42] [Server thread/WARN]: 	at net.rozukke.elci.RemoteSession.tick(RemoteSession.java:107)
+[19:39:42] [Server thread/WARN]: 	at net.rozukke.elci.ELCIPlugin$TickHandler.run(ELCIPlugin.java:154)
+[19:39:42] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftTask.run(CraftTask.java:82)
+[19:39:42] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:415)
+[19:39:42] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1259)
+[19:39:42] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:388)
+[19:39:42] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1200)
+[19:39:42] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1017)
+[19:39:42] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:304)
+[19:39:42] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[19:39:42] [Server thread/INFO]: Hello world[m
+[19:39:42] [Server thread/INFO]: [ELCI] Closed connection to/127.0.0.1:54330.
+[19:39:58] [Thread-9/INFO]: [ELCI] Opened connection to/127.0.0.1:57408.
+[19:39:58] [Thread-46/INFO]: [ELCI] Starting input thread
+[19:39:58] [Thread-47/INFO]: [ELCI] Starting output thread!
