@@ -1,7 +1,9 @@
-# Minecraft Scure API
+# Minecraft Secure API
 This is the README file for Assignment 3 in Programming Studio 2 (COSC2804).
 
 Video Link: https://drive.google.com/file/d/1nqcS9c8xyIHa9-uSYAtnjGilZGuX2IM4/view
+
+Report Link: https://drive.google.com/file/d/1pFGGRTAaf5-qCe2iheeiQCXZ6prUyvzF/view?usp=sharing 
 
 # Student Contributions
 
